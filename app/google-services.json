@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "411973326971",
+    "firebase_url": "https://fir-72f5f.firebaseio.com",
+    "project_id": "fir-72f5f",
+    "storage_bucket": "fir-72f5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411973326971:android:cab58b61a5ccd533",
+        "android_client_info": {
+          "package_name": "instatag.com.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411973326971-vjc7l3elpv4mu3takoio7ji29kfkm6jh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "instatag.com.firebase",
+            "certificate_hash": "efb304844663f42966fc67a3336a8593e64d01a1"
+          }
+        },
+        {
+          "client_id": "411973326971-71ekujlvrp07apmqsv93jlhf44kf5cta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB495vhn3gGiKDtzlKbhn1CermNxkii6P4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411973326971-71ekujlvrp07apmqsv93jlhf44kf5cta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
